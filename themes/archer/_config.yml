@@ -66,8 +66,6 @@ comment:
 busuanzi: true
 # Baidu analytics
 baidu_analytics:
-# Google analytics
-google_analytics: UA-116555605-1
 # CNZZ analytics
 CNZZ_analytics:
 
