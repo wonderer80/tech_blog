@@ -137,3 +137,20 @@
 #busuanzi_container_site_pv {
     font: 1rem $feature-font-family;
 }
+
+// ========== table responsive ========== //
+.article-entry {
+    > table {
+        display: block;
+        overflow-x: auto;
+        max-width: 100%;
+        -webkit-overflow-scrolling: touch;
+        th,
+        td {
+            min-width: 7rem;
+        }
+        td:last-child {
+            min-width: 11rem;
+        }
+    }
+}
