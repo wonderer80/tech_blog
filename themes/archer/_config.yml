@@ -68,6 +68,8 @@ busuanzi: true
 baidu_analytics:
 # CNZZ analytics
 CNZZ_analytics:
+# Google Analytics (GA4 측정 ID, 예: G-XXXXXXXXXX)
+google_analytics: G-CJ0C63XKSB
 
 # ========== Others ========== #
 # favicon
